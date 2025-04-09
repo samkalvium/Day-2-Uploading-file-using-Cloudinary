@@ -35,7 +35,7 @@
 **Where to Fix?**  
 - Create a new component `FileUpload.jsx`.  
 - Update `frontend/src/App.jsx` to use `FileUpload.jsx`.  
-
+              
 
 
 ### **4️⃣ Frontend: No Error Handling for Upload Failures**  
@@ -48,7 +48,7 @@
 - Update `FileUpload.jsx` to handle errors and loading states.  
 
 ---
-
+         
 ### **5️⃣ Missing Environment Variables**  
 **Issue**: The **Cloudinary credentials** are hardcoded instead of being stored in a `.env` file.  
  **Fix**:  
